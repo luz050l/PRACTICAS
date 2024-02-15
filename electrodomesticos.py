@@ -22,6 +22,7 @@ class Electrodomestico:
       #      self.sexo=False
        # else:
         #    print("Es mujer")
+    #auida porfavor :')
 
     def letras(a,b,c,d,e,f):
         if self.letra==a:
